@@ -6,7 +6,7 @@ Project Explores Toronto Neighborhoods and Housing using a variety of data scien
     - Notebooks about Toronto neighborhood analysis 
 -  **C2_Toronto_Housing** 
     - Notebooks about Toronto housing analysis 
-    - 
+    
 -  **dimension_excercise** 
     - Notebooks about dimension reduction practise
 
@@ -40,7 +40,7 @@ Project Explores Toronto Neighborhoods and Housing using a variety of data scien
 
     -   Binary classification
 
-        -      Decision trees
+        -   Decision trees
 
     -   Multi-class classification
 

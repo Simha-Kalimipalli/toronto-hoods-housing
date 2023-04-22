@@ -48,7 +48,7 @@ Project Explores Toronto Neighborhoods and Housing using a variety of data scien
 
 -   Visualization
 
-    -       Type:
+    -       Type
 
         -   Bar graph
 
